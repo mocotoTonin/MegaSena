@@ -46,7 +46,7 @@ const StyledWrapper = styled.div`
     margin: 0;
     width: 3.5rem;
     height: 2.5rem;
-    background: #1e1e1e; /* escuro do site */
+    background: #2c2c2c; /* escuro do site */
     border-radius: 1.75rem;
     border: 2px solid #61dafb; /* borda azul */
   }
